@@ -2,6 +2,6 @@ package hello;
 
 public class Greeter {
     public String sayHello() {
-        return "devops for webhooks Project for AchiStar Technologies";
+        return "devops Project for AchiStar Technologies";
     }
 }
